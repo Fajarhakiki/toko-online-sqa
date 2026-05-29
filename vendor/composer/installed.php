@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'toko/online',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '4b06a78c0aee4d6b14a92299ccd864d18c1de19d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -245,9 +245,9 @@
             'dev_requirement' => true,
         ),
         'toko/online' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '4b06a78c0aee4d6b14a92299ccd864d18c1de19d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
